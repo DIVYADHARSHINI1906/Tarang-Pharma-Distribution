@@ -1,0 +1,263 @@
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 51.35433 779.874 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 8 Tm /F2 14 Tf 22 TL (Tarang Pharma Distribution: Field Expense Policy \(v3.2\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 751.474 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 13.5 Tm /F1 8.9 Tf 11.2 TL (Applies to all field staff \(Medical Representatives, Senior Medical Representatives, Area Sales Managers\). Finance owns this) Tj T* (policy.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 727.474 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 7.5 Tm /F2 10.5 Tf 18 TL (1. How a claim is made) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 710.274 cm
+q
+BT 1 0 0 1 3 2.3 Tm /F1 10 Tf 12 TL 0 0 0 rg (\177) Tj ET
+0 0 0 rg
+BT 1 0 0 1 12 2.3 Tm /F1 8.9 Tf 11.2 TL .5 0 Td (Every expense is claimed separately in the Tarang Expense app, with one photo of the original bill.) Tj T* -0.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 51.35433 681.874 cm
+q
+BT 1 0 0 1 3 13.5 Tm /F1 10 Tf 12 TL 0 0 0 rg (\177) Tj ET
+0 0 0 rg
+BT 1 0 0 1 12 13.5 Tm /F1 8.9 Tf 11.2 TL .5 0 Td -0.026209 Tw (The rep enters the expense date, the category, the vendor, the amount and a short comment. The app records the photo's) Tj T* 0 Tw -0.5 0 Td (file name at upload.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 664.674 cm
+q
+BT 1 0 0 1 3 2.3 Tm /F1 10 Tf 12 TL 0 0 0 rg (\177) Tj ET
+0 0 0 rg
+BT 1 0 0 1 12 2.3 Tm /F1 8.9 Tf 11.2 TL .5 0 Td (Claims are reimbursed weekly, after a finance clerk has checked them.) Tj T* -0.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 51.35433 640.674 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 7.5 Tm /F2 10.5 Tf 18 TL (2. What can be claimed) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 623.474 cm
+q
+BT 1 0 0 1 3 2.3 Tm /F1 10 Tf 12 TL 0 0 0 rg (\177) Tj ET
+BT 1 0 0 1 12 2.3 Tm .5 0 Td 11.2 TL /F2 8.9 Tf 0 0 0 rg (Fuel.) Tj /F1 8.9 Tf ( Actuals for field days, own two-wheeler \(Area Sales Managers: own car\). The bill must show the vehicle number.) Tj T* -0.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 51.35433 606.274 cm
+q
+BT 1 0 0 1 3 2.3 Tm /F1 10 Tf 12 TL 0 0 0 rg (\177) Tj ET
+BT 1 0 0 1 12 2.3 Tm .5 0 Td 11.2 TL /F2 8.9 Tf 0 0 0 rg (Food.) Tj /F1 8.9 Tf ( Meals with doctors or stockists up to Rs 2,500 per bill without prior approval. Field meals at actuals.) Tj T* -0.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 51.35433 577.874 cm
+q
+BT 1 0 0 1 3 13.5 Tm /F1 10 Tf 12 TL 0 0 0 rg (\177) Tj ET
+BT 1 0 0 1 12 13.5 Tm .5 0 Td 11.2 TL /F2 8.9 Tf 0 0 0 rg (Lodging.) Tj /F1 8.9 Tf ( Outstation nights only. Grades M1 and M2: up to Rs 3,000 per night before GST. Grade M3: up to Rs 4,500.) Tj T* -0.5 0 Td (Hotel bills must be GST tax invoices in the employee's name.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 560.674 cm
+q
+BT 1 0 0 1 3 2.3 Tm /F1 10 Tf 12 TL 0 0 0 rg (\177) Tj ET
+BT 1 0 0 1 12 2.3 Tm .5 0 Td 11.2 TL /F2 8.9 Tf 0 0 0 rg (Local travel.) Tj /F1 8.9 Tf ( Cab or auto at actuals, with the driver's receipt.) Tj T* -0.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 51.35433 543.474 cm
+q
+BT 1 0 0 1 3 2.3 Tm /F1 10 Tf 12 TL 0 0 0 rg (\177) Tj ET
+BT 1 0 0 1 12 2.3 Tm .5 0 Td 11.2 TL /F2 8.9 Tf 0 0 0 rg (Courier.) Tj /F1 8.9 Tf ( Samples and documents, at actuals.) Tj T* -0.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 51.35433 526.274 cm
+q
+BT 1 0 0 1 3 2.3 Tm /F1 10 Tf 12 TL 0 0 0 rg (\177) Tj ET
+BT 1 0 0 1 12 2.3 Tm .5 0 Td 11.2 TL /F2 8.9 Tf 0 0 0 rg (Parking.) Tj /F1 8.9 Tf ( At actuals. Daily parking near clinics is expected for Nagpur city reps.) Tj T* -0.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 51.35433 502.274 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 7.5 Tm /F2 10.5 Tf 18 TL (3. Receipts) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 485.074 cm
+q
+BT 1 0 0 1 3 2.3 Tm /F1 10 Tf 12 TL 0 0 0 rg (\177) Tj ET
+0 0 0 rg
+BT 1 0 0 1 12 2.3 Tm /F1 8.9 Tf 11.2 TL .5 0 Td (The claim amount is the amount on the bill. Rounding to the nearest Rs 10 is accepted.) Tj T* -0.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 51.35433 467.874 cm
+q
+BT 1 0 0 1 3 2.3 Tm /F1 10 Tf 12 TL 0 0 0 rg (\177) Tj ET
+BT 1 0 0 1 12 2.3 Tm .5 0 Td 11.2 TL /F1 8.9 Tf 0 0 0 rg (A bill is claimed ) Tj /F2 8.9 Tf (once) Tj /F1 8.9 Tf (, by the person who paid it. A shared bill is claimed once, by the payer.) Tj T* -0.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 51.35433 450.674 cm
+q
+BT 1 0 0 1 3 2.3 Tm /F1 10 Tf 12 TL 0 0 0 rg (\177) Tj ET
+0 0 0 rg
+BT 1 0 0 1 12 2.3 Tm /F1 8.9 Tf 11.2 TL .5 0 Td (A bill must not be altered in any way. Notes written on a bill \(doctor's name, number of people, "paid"\) are allowed.) Tj T* -0.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 51.35433 433.474 cm
+q
+BT 1 0 0 1 3 2.3 Tm /F1 10 Tf 12 TL 0 0 0 rg (\177) Tj ET
+0 0 0 rg
+BT 1 0 0 1 12 2.3 Tm /F1 8.9 Tf 11.2 TL .5 0 Td (A claim without a readable bill photo is queried back to the rep.) Tj T* -0.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 51.35433 409.474 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 7.5 Tm /F2 10.5 Tf 18 TL (4. How Finance checks a claim today) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 381.074 cm
+q
+BT 1 0 0 1 0 13.5 Tm /F1 10 Tf 12 TL 0 0 0 rg (1.) Tj ET
+0 0 0 rg
+BT 1 0 0 1 12 13.5 Tm /F1 8.9 Tf 11.2 TL 2.34 0 Td (A clerk opens the photo and types the vendor, bill date, bill number, amount and GSTIN \(if printed\) into the accounts) Tj T* -2.34 0 Td (system.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 363.874 cm
+q
+BT 1 0 0 1 0 2.3 Tm /F1 10 Tf 12 TL 0 0 0 rg (2.) Tj ET
+0 0 0 rg
+BT 1 0 0 1 12 2.3 Tm /F1 8.9 Tf 11.2 TL 2.34 0 Td (The clerk compares the bill with the claim and approves it, queries it back to the rep, or rejects it, with a note.) Tj T* -2.34 0 Td ET
+Q
+Q
+q
+1 0 0 1 51.35433 346.674 cm
+q
+BT 1 0 0 1 0 2.3 Tm /F1 10 Tf 12 TL 0 0 0 rg (3.) Tj ET
+0 0 0 rg
+BT 1 0 0 1 12 2.3 Tm /F1 8.9 Tf 11.2 TL 2.34 0 Td (Approved claims are paid in the weekly run.) Tj T* -2.34 0 Td ET
+Q
+Q
+q
+1 0 0 1 51.35433 322.674 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 7.5 Tm /F2 10.5 Tf 18 TL (5. Costs Finance uses) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 305.474 cm
+q
+BT 1 0 0 1 3 2.3 Tm /F1 10 Tf 12 TL 0 0 0 rg (\177) Tj ET
+0 0 0 rg
+BT 1 0 0 1 12 2.3 Tm /F1 8.9 Tf 11.2 TL .5 0 Td (Two finance clerks, loaded cost Rs 38,000 a month each.) Tj T* -0.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 51.35433 288.274 cm
+q
+BT 1 0 0 1 3 2.3 Tm /F1 10 Tf 12 TL 0 0 0 rg (\177) Tj ET
+0 0 0 rg
+BT 1 0 0 1 12 2.3 Tm /F1 8.9 Tf 11.2 TL .5 0 Td (Typing and checking one claim takes about 3.5 minutes on average.) Tj T* -0.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 51.35433 271.074 cm
+q
+BT 1 0 0 1 3 2.3 Tm /F1 10 Tf 12 TL 0 0 0 rg (\177) Tj ET
+0 0 0 rg
+BT 1 0 0 1 12 2.3 Tm /F1 8.9 Tf 11.2 TL .5 0 Td (A claim queried back to a rep costs about Rs 45 in clerk and rep time, and delays the rep's payment by a week.) Tj T* -0.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 51.35433 253.874 cm
+q
+BT 1 0 0 1 3 2.3 Tm /F1 10 Tf 12 TL 0 0 0 rg (\177) Tj ET
+0 0 0 rg
+BT 1 0 0 1 12 2.3 Tm /F1 8.9 Tf 11.2 TL .5 0 Td (An amount paid out wrongly is recovered from salary only if it is found within the same quarter. In practice, little is found.) Tj T* -0.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 51.35433 229.874 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 7.5 Tm /F2 10.5 Tf 18 TL (6. Volumes) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 212.674 cm
+q
+BT 1 0 0 1 3 2.3 Tm /F1 10 Tf 12 TL 0 0 0 rg (\177) Tj ET
+0 0 0 rg
+BT 1 0 0 1 12 2.3 Tm /F1 8.9 Tf 11.2 TL .5 0 Td (About 2,400 photo claims a month across the company \(about 160 field staff\).) Tj T* -0.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 51.35433 195.474 cm
+q
+BT 1 0 0 1 3 2.3 Tm /F1 10 Tf 12 TL 0 0 0 rg (\177) Tj ET
+0 0 0 rg
+BT 1 0 0 1 12 2.3 Tm /F1 8.9 Tf 11.2 TL .5 0 Td (The Nagpur division \(16 people\) is about a tenth of that.) Tj T* -0.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 51.35433 178.274 cm
+q
+BT 1 0 0 1 3 2.3 Tm /F1 10 Tf 12 TL 0 0 0 rg (\177) Tj ET
+0 0 0 rg
+BT 1 0 0 1 12 2.3 Tm /F1 8.9 Tf 11.2 TL .5 0 Td (About nine in ten claims are under Rs 2,000.) Tj T* -0.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 51.35433 154.274 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 7.5 Tm /F2 10.5 Tf 18 TL (7. Proposed change \(Finance, draft for discussion\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 125.874 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 13.5 Tm /F1 8.9 Tf 11.2 TL (Once the app can read the bill from the photo, claims under Rs 2,000 are approved automatically and paid in the weekly run.) Tj T* (Clerks check only claims of Rs 2,000 and above.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 101.874 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 7.5 Tm /F2 10.5 Tf 18 TL (8. Misconduct) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 84.67402 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.3 Tm /F1 8.9 Tf 11.2 TL (Claiming a bill twice, claiming a colleague's bill, or altering a bill is a disciplinary matter. The amount is recovered from salary.) Tj T* ET
+Q
+Q
+ 

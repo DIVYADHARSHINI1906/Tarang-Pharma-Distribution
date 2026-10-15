@@ -1,0 +1,14 @@
+{
+  "name": "tarang-pharma-distribution",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Tarang Pharma Distribution - AI Expense Receipt Automation",
+  "scripts": {
+    "start": "python run.py",
+    "dev": "python run.py",
+    "backend": "python -m uvicorn backend.app.main:app --host 127.0.0.1 --port 8000 --reload",
+    "frontend": "npm --prefix frontend run dev",
+    "build": "npm --prefix frontend run build",
+    "test": "pytest backend/tests/ -v"
+  }
+}

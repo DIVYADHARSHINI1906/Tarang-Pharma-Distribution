@@ -1,0 +1,191 @@
+claim_id,vendor,receipt_date,receipt_number,gstin,total_amount,decision,reason
+CLM-31086,New Highway Service Station,,062229,,300.00,approve,"All policy checks passed: verified readable receipt, amount matches within policy tolerance."
+CLM-31087,No  A 6383,,ICE,27YUFFZ9311K2ZV,304.00,review,Extracted vendor 'No  A 6383' does not match claimed vendor 'Green Leaf Restaurant'.
+CLM-31088,Highway King Dhaba,2026-07-11,1341,,260.00,approve,"All policy checks passed: verified readable receipt, amount matches within policy tolerance."
+CLM-31090,Hotel Rajdhani Dhaba,,3509,,220.00,approve,"All policy checks passed: verified readable receipt, amount matches within policy tolerance."
+CLM-31091,Ram Sai Tea & Snacks,,,,405.00,approve,"All policy checks passed: verified readable receipt, amount matches within policy tolerance."
+CLM-31094,u   seedny,,,,,review,Total bill amount could not be verified from the photo. Extracted vendor 'u   seedny' does not match claimed vendor 'Durga Maa Cab Service'.
+CLM-31095,Express Vidarbha Courier,2026-07-15,AWB,,330.40,approve,"All policy checks passed: verified readable receipt, amount matches within policy tolerance."
+CLM-31096,New Highway Service Station,2026-07-12,Pump,,668.11,approve,"All policy checks passed: verified readable receipt, amount matches within policy tolerance."
+CLM-31097,Pump  3,,064478,27DPAFU412EXIZM,400.00,review,Extracted vendor 'Pump  3' does not match claimed vendor 'Laxmi Auto Fuels'.
+CLM-31098,Steward  Sunil,2026-07-12,1405,,730.00,review,Extracted vendor 'Steward  Sunil' does not match claimed vendor 'hotel pradeep pure veg - Wardha'.
+CLM-31102,Shivam Family Restaurant,,,,,review,Total bill amount could not be verified from the photo.
+CLM-31105,Steward  Ramesh,2026-07-16,A/1608,27GIZFL1893Q2ZK,567.00,review,Extracted vendor 'Steward  Ramesh' does not match claimed vendor 'Annapurna Dining Hall'.
+CLM-31106,Green Leaf Restaurant,,,,494.00,approve,"All policy checks passed: verified readable receipt, amount matches within policy tolerance."
+CLM-31107,Prompt Parcel Services,2026-01-12,PP17951745,,330.40,review,Receipt date (2026-01-12) differs from claimed expense date (2026-07-12).
+CLM-31110,Prompt Parcel Services,2026-07-12,AWB,271RWFN4293H2Z1,141.60,approve,"All policy checks passed: verified readable receipt, amount matches within policy tolerance."
+CLM-31111,SITABULDI MULTILEVEL PARKING,2026-07-16,115811,,26.00,approve,"All policy checks passed: verified readable receipt, amount matches within policy tolerance."
+CLM-31112,Sitabuldi Multilevel Parking,,115488,,26.00,approve,"All policy checks passed: verified readable receipt, amount matches within policy tolerance."
+CLM-31115,Jai Ambe Fuels,,,,511.00,approve,"All policy checks passed: verified readable receipt, amount matches within policy tolerance."
+CLM-31118,Om Sai Fuel oPint,,083418,,283.44,approve,"All policy checks passed: verified readable receipt, amount matches within policy tolerance."
+CLM-31120,om sai fuel point,2026-06-24,002691,,,review,Total bill amount could not be verified from the photo. Receipt date (2026-06-24) differs from claimed expense date (2026-06-17). Possible duplicate receipt: bill number '002691' previously used in claim CLM-30687.
+CLM-31122,Laxmi Auto Fuels,2026-06-22,00752,,200.00,review,Receipt date (2026-06-22) differs from claimed expense date (2026-06-15).
+CLM-31123,Cafe Coffee Corner,2026-07-14,Bill,27TABPX3765R2Z6,240.00,approve,"All policy checks passed: verified readable receipt, amount matches within policy tolerance."
+CLM-31126,Shivam Family Restaurant,2026-07-14,Bill,,210.00,approve,"All policy checks passed: verified readable receipt, amount matches within policy tolerance."
+CLM-31130,hotel pradeep pure veg,2026-07-12,Bill,270DUFJ1789K3ZU,982.00,approve,"All policy checks passed: verified readable receipt, amount matches within policy tolerance."
+CLM-31132,Om Sai Fuel Point,2026-07-20,003651,,156.00,approve,"All policy checks passed: verified readable receipt, amount matches within policy tolerance."
+CLM-31133,,,,,,review,Receipt photo is unreadable or blurred.
+CLM-31137,Spice Route Kitcehn,,Bill,27NCRPN1784A3Z1,399.00,approve,"All policy checks passed: verified readable receipt, amount matches within policy tolerance."
+CLM-31140,,,,,,review,Receipt photo is unreadable or blurred.
+CLM-31142,Hotel Rajdhani Dhaba,,3532,,350.00,approve,"All policy checks passed: verified readable receipt, amount matches within policy tolerance."
+CLM-31146,Shree Ganesh Tours & Travels,2026-05-17,3916,,,review,Total bill amount could not be verified from the photo. Receipt date (2026-05-17) differs from claimed expense date (2026-07-17).
+CLM-31148,Hotel Shubham Residency,,Com,,10000.00,review,"Receipt amount (Rs 10,000.00) differs from claimed amount (Rs 2,352.00). Lodging claim requires a valid GST tax invoice with printed GSTIN. Amount Rs 2,352.00 is at or above the Rs 2,000 threshold requiring clerk review."
+CLM-31152,Medical Square Pay & Park,2026-07-13,105339,,13.00,approve,"All policy checks passed: verified readable receipt, amount matches within policy tolerance."
+CLM-31156,New Highway Serviice Station,,,,313.73,approve,"All policy checks passed: verified readable receipt, amount matches within policy tolerance."
+CLM-31158,,,,,,review,Receipt photo is unreadable or blurred.
+CLM-31160,SpeedLink Couriers,2026-07-15,,27HJXCW9975DIZJ,339.84,approve,"All policy checks passed: verified readable receipt, amount matches within policy tolerance."
+CLM-31161,HOTEL SHUBHAM RESIDENCY,2026-07-13,Invoice,27UVOFW9408YIZS,10000.00,review,"Receipt amount (Rs 10,000.00) differs from claimed amount (Rs 2,352.00). Amount Rs 2,352.00 is at or above the Rs 2,000 threshold requiring clerk review."
+CLM-31164,Indian Oil,,,,,review,Total bill amount could not be verified from the photo. Extracted vendor 'Indian Oil' does not match claimed vendor 'SHREE SAI PETROLEUM'.
+CLM-31168,GAJANAN PETROLEUM,,669269,,,review,Total bill amount could not be verified from the photo.
+CLM-31170,Steward  Suntl,2026-07-15,6284,27NCRPN1784A3Z1,178.00,review,Extracted vendor 'Steward  Suntl' does not match claimed vendor 'Spice Route Kitchen'.
+CLM-31171,,,,,,review,Receipt photo is unreadable or blurred.
+CLM-31173,SAI RAM TEA & SNACKS,,6940,,330.00,approve,"All policy checks passed: verified readable receipt, amount matches within policy tolerance."
+CLM-31176,Sai Ram Tea & Snacks,,6896,,190.00,review,Possible duplicate receipt: bill number '6896' previously used in claim CLM-30572.
+CLM-31178,SHREE GANESH TOURS & TRAVELS,,3928,,,review,Total bill amount could not be verified from the photo.
+CLM-31182,Royal TTravels,,8485,,,review,Total bill amount could not be verified from the photo.
+CLM-31185,Prommpt Parcel Services,2026-07-23,PP20468432,271RWFN4293M2Z1,141.00,approve,"All policy checks passed: verified readable receipt, amount matches within policy tolerance."
+CLM-31188,Hotel Krisna Comforts,,Invoice,27HPFCA5856Y3ZE,800.00,review,"Receipt amount (Rs 800.00) differs from claimed amount (Rs 4,032.00). Lodging claim Rs 4,032.00 exceeds Grade M1 policy limit of Rs 3,000 per night. Amount Rs 4,032.00 is at or above the Rs 2,000 threshold requiring clerk review."
+CLM-31190,,,,,,review,Receipt photo is not attached or upload failed.
+CLM-31191,Shree Sai Petroleum,,067482,,308.69,approve,"All policy checks passed: verified readable receipt, amount matches within policy tolerance."
+CLM-31192,SPICE ROUTE KITCHEN,2026-07-22,ICE,,1200.00,approve,"All policy checks passed: verified readable receipt, amount matches within policy tolerance."
+CLM-31195,Prompt Parcel Services,2026-07-16,,271RWFN4293H2ZI,330.40,approve,"All policy checks passed: verified readable receipt, amount matches within policy tolerance."
+CLM-31197,Om Sai Fuel Point,,063588,,291.00,approve,"All policy checks passed: verified readable receipt, amount matches within policy tolerance."
+CLM-31201,Ashirwad Veg Restaurant,2026-07-19,Bill,2701LF01994Z2ZV,536.00,approve,"All policy checks passed: verified readable receipt, amount matches within policy tolerance."
+CLM-31203,Hotel Rajdhani Dhaba,,,,120.00,review,"Receipt amount (Rs 120.00) differs from claimed amount (Rs 1,180.00)."
+CLM-31204,SpeedLink Couriers,,SL26816175,27HJXCW9975DIZJ,330.40,review,Possible duplicate receipt: bill number 'SL26816175' previously used in claim CLM-30703.
+CLM-31206,New Highway Service Station Nagpur,2022-07-26,962362,,108.00,review,Receipt date (2022-07-26) differs from claimed expense date (2026-07-22).
+CLM-31207,Annapurna Dining Hall,2026-07-27,Steward,27GIZFL1093Q2ZK,2194.00,review,"Amount Rs 2,194.00 is at or above the Rs 2,000 threshold requiring clerk review."
+CLM-31209,Highway King Dhaba,,1394,,480.00,approve,"All policy checks passed: verified readable receipt, amount matches within policy tolerance."
+CLM-31211,Highway King Dhaba,,,,185.00,approve,"All policy checks passed: verified readable receipt, amount matches within policy tolerance."
+CLM-31214,SAI RAM TEA & SNACKS,,6946,,100.00,approve,"All policy checks passed: verified readable receipt, amount matches within policy tolerance."
+CLM-31217,Ganesh Shree Tours & Travels,,3998,,,review,Total bill amount could not be verified from the photo.
+CLM-31221,Prompt Parcel Services,,AWB,,330.40,approve,"All policy checks passed: verified readable receipt, amount matches within policy tolerance."
+CLM-31222,Sitabuldi M.L. Parking,2026-07-23,116051,,23.00,approve,"All policy checks passed: verified readable receipt, amount matches within policy tolerance."
+CLM-31225,OM SAI FUEL POINT,,883768,,59.00,review,Receipt amount (Rs 59.00) differs from claimed amount (Rs 606.62).
+CLM-31228,HPCL,,,,300.00,review,Extracted vendor 'HPCL' does not match claimed vendor 'Om Sai Fuel Point'.
+CLM-31230,Om Sai Fuel Point,,684185,,156.80,approve,"All policy checks passed: verified readable receipt, amount matches within policy tolerance."
+CLM-31233,iuve9e us' A    no   xuetll,,,,,review,Total bill amount could not be verified from the photo. Extracted vendor 'iuve9e us' A    no   xuetll' does not match claimed vendor 'Annapurna Dining Hall (Ngp)'.
+CLM-31236,Steward  K tran,,22000,,483.00,review,Extracted vendor 'Steward  K tran' does not match claimed vendor 'Annapurna Dining Hall'.
+CLM-31240,CAFE COFFEE CORNER,,Bill,27TABPX3165R2Z6,425.00,approve,"All policy checks passed: verified readable receipt, amount matches within policy tolerance."
+CLM-31243,Shree Ganesh Tours & Travels,,4043,,,review,Total bill amount could not be verified from the photo.
+CLM-31244,uneuOs,,,,,review,Total bill amount could not be verified from the photo. Extracted vendor 'uneuOs' does not match claimed vendor 'Shree Ganesh Tours & Travels'.
+CLM-31247,VIDARBHA EXPRESS COURIER,,VX23263164,,330.40,approve,"All policy checks passed: verified readable receipt, amount matches within policy tolerance."
+CLM-31249,Vidarbha Express Courier,,AWB,270UUFX7743H2ZR,141.60,approve,"All policy checks passed: verified readable receipt, amount matches within policy tolerance."
+CLM-31251,Speedlink Couriers,,,,141.00,approve,"All policy checks passed: verified readable receipt, amount matches within policy tolerance."
+CLM-31255,Sitabuldi Multilevel Parking,2026-07-24,116964,,24.00,approve,"All policy checks passed: verified readable receipt, amount matches within policy tolerance."
+CLM-31256,Sitabuldi Multilevel Parking,,,,26.00,approve,"All policy checks passed: verified readable receipt, amount matches within policy tolerance."
+CLM-31258,Jai Ambe Fuels,2028-07-23,001556,,508.00,review,Receipt date (2028-07-23) differs from claimed expense date (2026-07-23).
+CLM-31261,Shri Sai Petroleum,2026-07-29,Pump,,606.00,approve,"All policy checks passed: verified readable receipt, amount matches within policy tolerance."
+CLM-31263,Om Sai Fuel Point,2026-07-21,083689,,200.00,approve,"All policy checks passed: verified readable receipt, amount matches within policy tolerance."
+CLM-31265,Gajanan Petroleum,,,,300.00,approve,"All policy checks passed: verified readable receipt, amount matches within policy tolerance."
+CLM-31266,Pump  2,,692123,,300.00,review,Extracted vendor 'Pump  2' does not match claimed vendor 'Om Sai Fuel Point'.
+CLM-31270,Jai Ambe Fuels,,,,,review,Total bill amount could not be verified from the photo.
+CLM-31272,SPICE ROUTE KITCHEN,2026-07-22,6333,27NCRPN1784A3ZI,331.00,approve,"All policy checks passed: verified readable receipt, amount matches within policy tolerance."
+CLM-31274,Pradeep Pure Veg,2026-07-27,Bill,270DUFJ1789K3ZU,693.00,approve,"All policy checks passed: verified readable receipt, amount matches within policy tolerance."
+CLM-31275,Steward  Manoj,2020-07-26,3666,27XHECH9812R2ZH,452.00,review,Extracted vendor 'Steward  Manoj' does not match claimed vendor 'shivam family restaurant'. Receipt date (2020-07-26) differs from claimed expense date (2026-07-25).
+CLM-31279,Steward  Hanoi,,3636,,357.00,review,Extracted vendor 'Steward  Hanoi' does not match claimed vendor 'shivam family restaurant'.
+CLM-31280,,,,,,review,Receipt photo is not attached or upload failed.
+CLM-31284,Hotel Krishna Comforts,2026-07-23,HKC/26-27/5301,27HPFCA5856Y3ZE,2026.00,review,"Amount Rs 2,016.00 is at or above the Rs 2,000 threshold requiring clerk review."
+CLM-31288,gulmohar hotel executive,2026-07-27,HGE/26-27/7519,27PMLCE5129S3ZO,100.00,review,"Receipt amount (Rs 100.00) differs from claimed amount (Rs 2,852.00). Amount Rs 2,852.00 is at or above the Rs 2,000 threshold requiring clerk review."
+CLM-31292,BPCL,,,,,review,Total bill amount could not be verified from the photo. Extracted vendor 'BPCL' does not match claimed vendor 'Jai Ambe Fuels'.
+CLM-31294,SAI FUEL ponrr,,,,542.82,approve,"All policy checks passed: verified readable receipt, amount matches within policy tolerance."
+CLM-31296,Shree Sai Petroleum,,-2026,,206.00,approve,"All policy checks passed: verified readable receipt, amount matches within policy tolerance."
+CLM-31298,Spice Route Kitchen,2026-07-24,Bill,27NCRPNT784A3ZI,430.00,approve,"All policy checks passed: verified readable receipt, amount matches within policy tolerance."
+CLM-31299,Ashirwad Veg Restaurant,,Steward,,1472.00,approve,"All policy checks passed: verified readable receipt, amount matches within policy tolerance."
+CLM-31301,24 61 2026,,,,735.00,review,Extracted vendor '24 61 2026' does not match claimed vendor 'Hotel Pradeep Pure Veg (Ngp)'.
+CLM-31305,No. 8506,,8506,,99700.00,review,"Receipt amount (Rs 99,700.00) differs from claimed amount (Rs 380.00). Extracted vendor 'No. 8506' does not match claimed vendor 'Royal Travels'."
+CLM-31308,ROYAL,,,,,review,Receipt photo is unreadable or blurred.
+CLM-31310,Shree Ganesh Tours & Travels,2026-01-23,3950,,57.00,review,"Receipt amount (Rs 57.00) differs from claimed amount (Rs 1,170.00). Receipt date (2026-01-23) differs from claimed expense date (2026-07-23)."
+CLM-31311,Hotel Gulmohar Executive,2026-07-22,Invoice,27PMLCE5129S3ZO,100.00,review,"Receipt amount (Rs 100.00) differs from claimed amount (Rs 2,352.00). Amount Rs 2,352.00 is at or above the Rs 2,000 threshold requiring clerk review."
+CLM-31314,Sitabuldi Multilevel Parking,2026-07-29,118129,,29.00,approve,"All policy checks passed: verified readable receipt, amount matches within policy tolerance."
+CLM-31315,Laxmi Auto Fuels,,984986,27DPAFU4120XIZX,268.60,review,Receipt amount (Rs 268.60) differs from claimed amount (Rs 20.00).
+CLM-31317,Ashirwad Veg Restaurant,,Bill,,2268.00,review,"Amount Rs 2,268.00 is at or above the Rs 2,000 threshold requiring clerk review."
+CLM-31321,Hotel Pradeep Pure Veg,2026-07-27,Bill,,808.00,approve,"All policy checks passed: verified readable receipt, amount matches within policy tolerance."
+CLM-31324,Hotel Saibaba Bhojnalaya,2026-07-29,Bill,27HTSPF4455TIZB,998.00,approve,"All policy checks passed: verified readable receipt, amount matches within policy tolerance."
+CLM-31328,Highway King Dhaba,,1377,,235.00,approve,"All policy checks passed: verified readable receipt, amount matches within policy tolerance."
+CLM-31329,Shree Ganesh Tours & Travels,,4011,,,review,Total bill amount could not be verified from the photo.
+CLM-31331,Maa Durga Cab Service,,8219,,,review,Total bill amount could not be verified from the photo. Possible duplicate receipt: bill number '8219' previously used in claim CLM-30506.
+CLM-31333,Om Sai Fuel Point,,HPCL,,,review,Total bill amount could not be verified from the photo.
+CLM-31335,Sai Om Fuel Point,,004585,,1313.77,approve,"All policy checks passed: verified readable receipt, amount matches within policy tolerance."
+CLM-31336,Shirdi Sai Om Fuel Point,2026-07-26,,,2607.43,review,"Amount Rs 2,607.43 is at or above the Rs 2,000 threshold requiring clerk review."
+CLM-31339,Pump  I,2026-07-29,964892,,200.00,review,Extracted vendor 'Pump  I' does not match claimed vendor 'Laxmi Auto Fuels'.
+CLM-31340,Gree Leaf Restaurant,,,27YUFFZ9311K2ZV,420.00,approve,"All policy checks passed: verified readable receipt, amount matches within policy tolerance."
+CLM-31341,Ashirwad Veg Restaurant,,,,840.00,approve,"All policy checks passed: verified readable receipt, amount matches within policy tolerance."
+CLM-31344,Highway King Dhaba,,,,160.00,review,Receipt amount (Rs 160.00) differs from claimed amount (Rs 315.00).
+CLM-31347,hotel rajdhani dhaba,2026-08-01,3554,,160.00,review,Receipt amount (Rs 160.00) differs from claimed amount (Rs 270.00).
+CLM-31351,Shree Ganesh Tours & Travels,2026-07-20,4067,,,review,Total bill amount could not be verified from the photo. Receipt date (2026-07-20) differs from claimed expense date (2026-07-29).
+CLM-31352,PROMPT PARCEL SERVICES,2026-07-23,PP31929414,,141.60,approve,"All policy checks passed: verified readable receipt, amount matches within policy tolerance."
+CLM-31356,ven,,,,30.00,review,Extracted vendor 'ven' does not match claimed vendor 'SITABULDI MULTILEVEL PARKING'.
+CLM-31359,Medical Square Pay & Park,2026-08-01,105547,,26.00,approve,"All policy checks passed: verified readable receipt, amount matches within policy tolerance."
+CLM-31361,Sri Shirdi Sai Petroleum (Ngp),2026-07-24,,,250.00,approve,"All policy checks passed: verified readable receipt, amount matches within policy tolerance."
+CLM-31362,Laxmi Auto Fuels,2026-07-27,004694,27DPAFU4120XIZM,206.00,approve,"All policy checks passed: verified readable receipt, amount matches within policy tolerance."
+CLM-31363,,,,,,review,Receipt photo is not attached or upload failed.
+CLM-31366,UIGUWAV KING,,,,,review,Receipt photo is unreadable or blurred.
+CLM-31367,Vidarbha Express Cour.,,VX79894828,270UUFX7743H2ZR,141.00,approve,"All policy checks passed: verified readable receipt, amount matches within policy tolerance."
+CLM-31368,Sai Palace Lodge,2026-08-01,Invoice,27GFZCR8659B2Z4,800.00,review,"Receipt amount (Rs 800.00) differs from claimed amount (Rs 3,136.00). Lodging claim Rs 3,136.00 exceeds Grade M1 policy limit of Rs 3,000 per night. Amount Rs 3,136.00 is at or above the Rs 2,000 threshold requiring clerk review."
+CLM-31369,OM SAI FUEL POINT,2026-08-03,684816,,200.00,approve,"All policy checks passed: verified readable receipt, amount matches within policy tolerance."
+CLM-31373,Om Sai Fuel Point,,004426,,156.00,approve,"All policy checks passed: verified readable receipt, amount matches within policy tolerance."
+CLM-31374,Steward  Manoj,2026-08-03,6663,27NTSPF4455TIZB,1092.00,review,Extracted vendor 'Steward  Manoj' does not match claimed vendor 'Hotel Saibaba Bhojnalaya'.
+CLM-31378,SAI RAM TEA & SNACKS,,,,,review,Total bill amount could not be verified from the photo.
+CLM-31382,speedlin couriers,2026-07-29,AWB,27HJXCW9975DIZJ,141.60,approve,"All policy checks passed: verified readable receipt, amount matches within policy tolerance."
+CLM-31386,BPCL,,,,85.00,review,Receipt amount (Rs 85.00) differs from claimed amount (Rs 750.00). Extracted vendor 'BPCL' does not match claimed vendor 'Jai Ambe Fuels'.
+CLM-31387,Pump  4,,,,156.00,review,Extracted vendor 'Pump  4' does not match claimed vendor 'Petroleum aGjanan'.
+CLM-31388,,,,,,review,Total bill amount could not be verified from the photo.
+CLM-31391,,,,,,review,Receipt photo is unreadable or blurred.
+CLM-31392,Stewar   Manoj,,6520,27NCRPNI784A3ZI,1124.00,review,Extracted vendor 'Stewar   Manoj' does not match claimed vendor 'Spice oRute Kitchen'.
+CLM-31393,Coffee Cafe Corner,2026-07-31,,,546.00,approve,"All policy checks passed: verified readable receipt, amount matches within policy tolerance."
+CLM-31397,PUNJABI TADKA DHABA,,8332,,270.00,approve,"All policy checks passed: verified readable receipt, amount matches within policy tolerance."
+CLM-31401,SHREE GANESH TOURS & TRAVELS,,4032,,65.00,review,"Receipt amount (Rs 65.00) differs from claimed amount (Rs 1,390.00)."
+CLM-31402,Speedlink Couriers,2026-06-23,,,330.00,approve,"All policy checks passed: verified readable receipt, amount matches within policy tolerance."
+CLM-31405,Hotel Shubham Residency,2026-08-01,Invoice,27UVQFW940SYIZS,20000.00,review,"Receipt amount (Rs 20,000.00) differs from claimed amount (Rs 4,700.00). Lodging claim Rs 4,700.00 exceeds Grade M1 policy limit of Rs 3,000 per night. Amount Rs 4,700.00 is at or above the Rs 2,000 threshold requiring clerk review."
+CLM-31407,Sitabuldi Multilevel Parking,2026-07-31,118663,,31.00,approve,"All policy checks passed: verified readable receipt, amount matches within policy tolerance."
+CLM-31411,Medical Square Pay & Park,2026-08-02,106049,,26.00,approve,"All policy checks passed: verified readable receipt, amount matches within policy tolerance."
+CLM-31412,New Highway Service Station,2026-07-27,589,,300.00,approve,"All policy checks passed: verified readable receipt, amount matches within policy tolerance."
+CLM-31414,Gajanan Petroluem,,,,300.00,approve,"All policy checks passed: verified readable receipt, amount matches within policy tolerance."
+CLM-31415,Pump,,664852,27DPAFU4120XIZN,500.00,review,Extracted vendor 'Pump' does not match claimed vendor 'Laxmi Auto Fuels'.
+CLM-31417,Ashirwad Veg Restaurant,2026-08-04,Bill,2701TF01994ZZZV,567.00,approve,"All policy checks passed: verified readable receipt, amount matches within policy tolerance."
+CLM-31418,annapurna dining hall,2026-06-12,Bill,27GIZFL1093Q2ZK,536.00,review,Receipt date (2026-06-12) differs from claimed expense date (2026-06-08).
+CLM-31421,Sai Ram Tea & Snacks,,6997,,,review,Total bill amount could not be verified from the photo.
+CLM-31422,HOTEL KRISHNA COMFORTS,2026-07-30,Invoice,27HPFCA5856Y3ZE,600.00,review,"Receipt amount (Rs 600.00) differs from claimed amount (Rs 4,032.00). Lodging claim Rs 4,032.00 exceeds Grade M1 policy limit of Rs 3,000 per night. Amount Rs 4,032.00 is at or above the Rs 2,000 threshold requiring clerk review."
+CLM-31423,Sitabuldi Multilevel Parking,2026-07-28,117592,,28.00,approve,"All policy checks passed: verified readable receipt, amount matches within policy tolerance."
+CLM-31424,SITABULDI MULTILEVEL PARKING,2026-08-05,119915,,26.00,approve,"All policy checks passed: verified readable receipt, amount matches within policy tolerance."
+CLM-31428,Sitabuldi Multilevel Parking,2026-08-03,119554,,26.00,approve,"All policy checks passed: verified readable receipt, amount matches within policy tolerance."
+CLM-31429,Shree Sai Petroleum,2026-08-04,608614,,100.00,approve,"All policy checks passed: verified readable receipt, amount matches within policy tolerance."
+CLM-31430,Steward  Kiran,2026-07-29,1696,,210.00,review,Extracted vendor 'Steward  Kiran' does not match claimed vendor 'HOTEL PRADEEP PURE VEG'.
+CLM-31432,CAFE COFFEE CORNER,2026-08-04,Biti,27TABPX3765R2Z6,588.00,approve,"All policy checks passed: verified readable receipt, amount matches within policy tolerance."
+CLM-31433,Bilt No  A 1796,2026-07-28,140,27GIZFTZE93Q2ZK,273.00,review,Extracted vendor 'Bilt No  A 1796' does not match claimed vendor 'Annapurna Dining Hall'.
+CLM-31436,shivam family restaurant,,3124,27XHECH9812R2ZH,756.00,approve,"All policy checks passed: verified readable receipt, amount matches within policy tolerance."
+CLM-31438,Dining Annapurna Hall,2026-07-28,Bill,,651.00,approve,"All policy checks passed: verified readable receipt, amount matches within policy tolerance."
+CLM-31439,Sai Ram Tea & Snacks,2026-08-05,,,240.00,approve,"All policy checks passed: verified readable receipt, amount matches within policy tolerance."
+CLM-31440,B UNO. 1414,,,,245.00,review,Extracted vendor 'B UNO. 1414' does not match claimed vendor 'Highway King Dhaba - Wardha'.
+CLM-31444,SHREE SAI PETMLEt  a,,Produc,,,review,Total bill amount could not be verified from the photo.
+CLM-31447,Om Sai Fuel Point,,864471,,300.00,approve,"All policy checks passed: verified readable receipt, amount matches within policy tolerance."
+CLM-31451,Pump  3,2029-08-04,901882,,200.00,review,Extracted vendor 'Pump  3' does not match claimed vendor 'Ambe Jai Fuels Nagpur'. Receipt date (2029-08-04) differs from claimed expense date (2026-08-04).
+CLM-31453,Gajanan Petroleum,,,,250.00,approve,"All policy checks passed: verified readable receipt, amount matches within policy tolerance."
+CLM-31454,New Highway Service Station,,662766,,400.00,approve,"All policy checks passed: verified readable receipt, amount matches within policy tolerance."
+CLM-31457,Sai Om Fuel Piont,2026-08-05,,,400.00,approve,"All policy checks passed: verified readable receipt, amount matches within policy tolerance."
+CLM-31460,,,,,,review,Receipt photo is unreadable or blurred.
+CLM-31461,NEW HIGHWAY SERVICE STATION,,062766,,,review,Total bill amount could not be verified from the photo.
+CLM-31465,Gajanan Petroleum,,689478,,400.00,approve,"All policy checks passed: verified readable receipt, amount matches within policy tolerance."
+CLM-31469,,,,,,review,Receipt photo is unreadable or blurred.
+CLM-31473,No  6567,2026-08-03,526,27NCRPN1784A3Z1,756.00,review,Extracted vendor 'No  6567' does not match claimed vendor 'Route Spice Kitchen'.
+CLM-31474,Coffee Cafe Corner,2026-08-05,Bill,27TABPX3765R2Z6,746.00,approve,"All policy checks passed: verified readable receipt, amount matches within policy tolerance."
+CLM-31475,Steuard  Kiran,2026-06-21,ICE,27TABPX376SR2Z6,987.00,review,Extracted vendor 'Steuard  Kiran' does not match claimed vendor 'Cafe Coffee Corner'. Receipt date (2026-06-21) differs from claimed expense date (2026-07-02).
+CLM-31478,CAFE,,,,1082.00,approve,"All policy checks passed: verified readable receipt, amount matches within policy tolerance."
+CLM-31479,Cafe Coffeee Corner,2026-08-03,Bill,27TABPX3765R2Z6,567.00,approve,"All policy checks passed: verified readable receipt, amount matches within policy tolerance."
+CLM-31480,24 61 2026,,,,735.00,review,Extracted vendor '24 61 2026' does not match claimed vendor 'Hotel Pradeep Pure Veg'.
+CLM-31483,Annapurna Dining Hall,,ICE,,798.00,approve,"All policy checks passed: verified readable receipt, amount matches within policy tolerance."
+CLM-31485,Punjabi Tadka Dhaba,,,,120.00,review,Receipt amount (Rs 120.00) differs from claimed amount (Rs 410.00).
+CLM-31486,Punjabi Tadka Dhaba,,8354,,,review,Total bill amount could not be verified from the photo.
+CLM-31490,Pue &,,3551,,,review,Total bill amount could not be verified from the photo. Extracted vendor 'Pue &' does not match claimed vendor 'Rajdhani Hotel Dhaba Nagpur'.
+CLM-31494,highhway king dhaba,2026-08-05,1433,,165.00,approve,"All policy checks passed: verified readable receipt, amount matches within policy tolerance."
+CLM-31495,Maa Durga Cab Service,,8323,,9010.00,review,"Receipt amount (Rs 9,010.00) differs from claimed amount (Rs 910.00)."
+CLM-31497,Shree Ganesh Tours & Travels,2026-01-23,3950,,,review,Total bill amount could not be verified from the photo. Receipt date (2026-01-23) differs from claimed expense date (2026-08-07).
+CLM-31501,Vidarbha Express Courier,2026-08-01,vx53559174,270TJUFX7743H2Z,141.60,approve,"All policy checks passed: verified readable receipt, amount matches within policy tolerance."
+CLM-31503,Vidarbha Express Courier (Ngp),2026-08-04,VX62429997,270UTJFX7743H2Z,1226.56,approve,"All policy checks passed: verified readable receipt, amount matches within policy tolerance."
+CLM-31506,SpeedLink Couriers,,,,141.60,approve,"All policy checks passed: verified readable receipt, amount matches within policy tolerance."
+CLM-31509,Shirdi Sai Palace Lodge,2026-08-01,Invoice,27GFZCR8659B2Z4,800.00,review,"Receipt amount (Rs 800.00) differs from claimed amount (Rs 3,136.00). Lodging claim Rs 3,136.00 exceeds Grade M1 policy limit of Rs 3,000 per night. Amount Rs 3,136.00 is at or above the Rs 2,000 threshold requiring clerk review."
+CLM-31512,Krishna Comforts,,HKC/26-27/5346,,2026.00,review,"Lodging claim requires a valid GST tax invoice with printed GSTIN. Amount Rs 2,016.00 is at or above the Rs 2,000 threshold requiring clerk review."
+CLM-31516,SITABULDI MULTILEVEL PARKING,2026-08-01,119019,,26.00,approve,"All policy checks passed: verified readable receipt, amount matches within policy tolerance."
+CLM-31519,Sitabuldi Muultilevel Parking,2026-08-05,121071,,26.00,approve,"All policy checks passed: verified readable receipt, amount matches within policy tolerance."
+CLM-31523,Sitabuldi Multilevel Parking,2026-08-05,1204,,26.00,approve,"All policy checks passed: verified readable receipt, amount matches within policy tolerance."
